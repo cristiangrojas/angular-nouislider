@@ -9,7 +9,7 @@ Simple angular directive for jquery [nouislider](http://refreshless.com/nouislid
 
 ### Usage:
 
-- Install: `bower install angular-nouislider`
+- Install: `bower install angular-nouislider-updated`
 - Add `jquery`, `angular`, `nouislider` and `angular-nouislider` to your code:
 
 ```html
