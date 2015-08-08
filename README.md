@@ -1,6 +1,10 @@
 angular-nouislider
 ==================
 
+I've forked this repository because in the original no one is maintaining the code and responding to the issues.
+
+This is updated with the last version of noUiSlider.
+
 Simple angular directive for jquery [nouislider](http://refreshless.com/nouislider/) plugin. Demo is [here](http://vasyabigi.github.io/angular-nouislider/).
 
 ### Usage:

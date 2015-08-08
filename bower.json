@@ -1,5 +1,5 @@
 {
-  "name": "angular-nouislider",
+  "name": "angular-nouislider-updated",
   "homepage": "http://vasyabigi.github.io/angular-nouislider/",
   "version": "0.3.1",
   "main": "src/nouislider.js",
@@ -15,9 +15,9 @@
     "slide"
   ],
   "dependencies": {
-    "angular": "~1.2.6",
+    "angular": "~1.3.15",
     "jquery": "~2.1.0",
-    "nouislider": "~6.2.0"
+    "nouislider": "~8.0.2"
   },
   "author": {
     "name": "Vasyl Stanislavchuk"
