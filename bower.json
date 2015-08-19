@@ -1,7 +1,7 @@
 {
   "name": "angular-nouislider-updated",
   "homepage": "http://vasyabigi.github.io/angular-nouislider/",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "main": "src/nouislider.js",
   "ignore": [
     "app"
